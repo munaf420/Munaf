@@ -3,7 +3,7 @@ library(knitr)
 library(kableExtra)
 library(zoo)
 library(DataCombine)
-library(foreach)
+
 
 str(activity)
 str(registrations)
