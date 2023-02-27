@@ -4,7 +4,6 @@ library(kableExtra)
 library(zoo)
 library(DataCombine)
 
-
 str(activity)
 str(registrations)
 
