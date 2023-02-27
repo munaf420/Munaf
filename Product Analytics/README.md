@@ -34,7 +34,7 @@ Each record is a unique registered user
 
 Activity data
 
-Columns
+Columns :
 
 id: unique identifier of a registered user
 
